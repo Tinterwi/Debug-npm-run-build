@@ -1,0 +1,12 @@
+﻿Quantidades de vulnerabilidades nos códigos
+
+* Sergio: 2 vulnerabilidades
+    * O comando [ npm run build ] não funcionou
+        * Gerou erro
+
+Qual seria a solução para esse problema?
+--------------------------------------------------
+
+* Cod3r: 488 vulnerabilidades
+    * O comando [ npm run build ] funcionou
+        * Não gerou erro
